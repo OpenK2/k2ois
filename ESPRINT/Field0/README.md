@@ -2,8 +2,10 @@
 
 ###Input file: F00_ESPRINTcandidates_20150513.csv
 
-Planet candidates  found using the ESPRINT pipeline, described at
+Planet candidates found using the ESPRINT pipeline, described at
 http://arxiv.org/abs/1504.04379
+most of the candidates found by Roberto Sanchis-Ojeda (UC Berkeley) 
+and Fei Dai (MIT)
 
 The stellar parameters come mostly from the K2-TESS stellar properties catalog
 http://arxiv.org/abs/1410.6379
