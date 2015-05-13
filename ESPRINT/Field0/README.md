@@ -1,6 +1,6 @@
 #Code to add K2 Field 0 candidates to ExoFOP
 
-##Input file: F00_ESPRINTcandidates_20150513.csv
+###Input file: F00_ESPRINTcandidates_20150513.csv
 
 Planet candidates  found using the ESPRINT pipeline, described at
 http://arxiv.org/abs/1504.04379
@@ -19,12 +19,12 @@ The Target number is only for internal purposes
 
 The comments may or may not be accurate
 
-#Processing code: readdata.R
+###Processing code: readdata.R
 
 R script that reads the list of candidates and generates a table with
 the information to be added to ExoFOP
 
-#Final output: binary-status-20150513-001.txt
+###Final output: binary-status-20150513-001.txt
 
 Final table with the planet candidates updated to ExoFOP
 
