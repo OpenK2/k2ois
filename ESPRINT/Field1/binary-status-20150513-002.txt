@@ -1,0 +1,9 @@
+EPIC|Status|Value|Note
+201637175|PC|Y|Found by the ESPRINT team (OpenK2 initiative)
+201345483|PC|Y|Found by the ESPRINT team (OpenK2 initiative)
+201862715|PC|Y|WASP-85b http://arxiv.org/abs/1412.7761
+201626686|FP|Y|Found by the ESPRINT team (OpenK2 initiative)
+201690311|PC|Y|Found by the ESPRINT team (OpenK2 initiative)
+201324549|PC|Y|Found by the ESPRINT team (OpenK2 initiative)
+201567796|FP|Y|Found by the ESPRINT team (OpenK2 initiative)
+201665500|FP|Y|Found by the ESPRINT team (OpenK2 initiative)
